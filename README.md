@@ -1,6 +1,5 @@
 # Fix Atheros WiFi AR9565 MacOs BigSur (Hackintosh)
 
-
 ## Preparation
 
 1. Download all kext
@@ -22,7 +21,9 @@ When all done, just follow step below
 
 ## Note
 
-You only will get 1 signal bar, but all working fine. Actually better you replace your card with the supported one or use wifi dongle instead
+You will get 1 signal bar only, but all working fine. Actually better you replace your card with the supported one or use wifi dongle instead. <br>
+I'm using OpenCore 0.6.4
+
 
 
 ## Resource
