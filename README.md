@@ -1,5 +1,11 @@
 # Fix Atheros WiFi AR9565 MacOs BigSur (Hackintosh)
 
+##Support
+
+if you like my work, please support me in 
+https://www.buymeacoffee.com/iamelse 
+https://saweria.co/iamelse
+
 ## Preparation
 
 1. Download all kext
